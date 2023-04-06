@@ -1,4 +1,4 @@
-public class listas {
+public class Listas {
 
     public static void main(String[] args) {
         ListaEncadeada lista = new ListaEncadeada();
