@@ -5,6 +5,12 @@ public class Listas {
 
         lista.addNode(10);
         lista.addNode(100);
+        lista.addNode(65);
+        lista.addNode(5);
+
+
+        lista.addFirst(50);
+
 
         lista.printList();
 
