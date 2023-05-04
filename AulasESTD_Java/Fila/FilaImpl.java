@@ -1,4 +1,4 @@
-package Ordenacao.Fila;
+package Fila;
 
 public class FilaImpl {
     
